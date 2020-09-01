@@ -1,4 +1,4 @@
-module github.com/TomasVojacek/kafka-go
+module github.com/TomasVojacek/kafka-go2
 
 go 1.11
 
